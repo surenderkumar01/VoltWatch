@@ -34,10 +34,4 @@ Clone the project
 Open in Android Studio
 Run on emulator or device
 
-Demo
 
-(Add your video link here)
-
- APK
-
-(Add your APK link here)
